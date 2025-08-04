@@ -6,7 +6,8 @@ An interactive web app that visually demonstrates the **Binary Search algorithm*
 
 ## 🖼️ Screenshot
 
-![Binary Search Visualizer Screenshot](https://github.com/chippyjolly/Binary-search-visualizer/blob/main/BinarySearch.png)?raw=true)
+![Binary Search Visualizer Screenshot](https://github.com/chippyjolly/Binary-search-visualizer/blob/main/BinarySearch.png?raw=true)
+
 
 ---
 
