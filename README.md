@@ -10,6 +10,12 @@ An interactive web app that visually demonstrates the **Binary Search algorithm*
 
 ---
 
+## 🖼️ Screenshot
+
+![Binary Search Visualizer Screenshot](https://github.com/chippyjolly/Binary-search-visualizer/blob/main/screenshot.png?raw=true)
+
+---
+
 ## ✨ Features
 
 - 📊 Real-time visualization of Binary Search
@@ -36,9 +42,4 @@ This project was built to strengthen my understanding of:
 - Designing user-friendly interfaces
 
 ---
-
-
-
-
-
 
