@@ -12,7 +12,7 @@ An interactive web app that visually demonstrates the **Binary Search algorithm*
 
 ## 🎥 Demo
 
-🎬 [Click here to watch the demo video](https://github.com/chippyjolly/Binary-search-visualizer/blob/main/Binary%20Search.mp4?raw=true)
+🎬 [Click here to watch the demo video](https://github.com/chippyjolly/Binary-search-visualizer/blob/main/Binary%20Search.mp4)
 
 ---
 
