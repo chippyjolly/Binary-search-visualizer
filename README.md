@@ -4,17 +4,19 @@ An interactive web app that visually demonstrates the **Binary Search algorithm*
 
 ---
 
+## 🖼️ Screenshot
+
+![Binary Search Visualizer Screenshot](https://github.com/chippyjolly/Binary-search-visualizer/blob/main/BinarySearch.png)?raw=true)
+
+---
+
 ## 🎥 Demo
 
 🎬 [Click here to watch the demo video](https://github.com/chippyjolly/Binary-search-visualizer/blob/main/Binary%20Search.mp4?raw=true)
 
 ---
 
-## 🖼️ Screenshot
 
-![Binary Search Visualizer Screenshot](https://github.com/chippyjolly/Binary-search-visualizer/blob/main/screenshot.png?raw=true)
-
----
 
 ## ✨ Features
 
